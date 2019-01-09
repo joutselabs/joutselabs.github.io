@@ -1,0 +1,12 @@
+title: JoutseLabs
+description: 'JoutseLabs: theme: jekyll-theme-startbootstrap-agency'
+author: 'JoutseLabs'
+theme: jekyll-theme-startbootstrap-agency
+
+sass:
+  style: compressed
+
+assets_path: '' 
+
+collections:
+  projects:
